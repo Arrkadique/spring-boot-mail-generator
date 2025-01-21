@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MailgeneratorApplication {
+public class MailGeneratorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MailgeneratorApplication.class, args);
+		SpringApplication.run(MailGeneratorApplication.class, args);
 	}
 
 }
